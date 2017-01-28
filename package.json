@@ -1,0 +1,38 @@
+{
+  "name": "comp308-w2017-2b-express",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.2",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.2.0",
+    "ejs": "~2.5.2",
+    "express": "~4.14.0",
+    "morgan": "~1.7.0",
+    "serve-favicon": "~2.3.0"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.5.0"
+  },
+  "description": "Express server setup",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jishnusundar/COMP308-W2017-2B-Express.git"
+  },
+  "keywords": [
+    "NodeJS",
+    "EJS"
+  ],
+  "author": "Jishnu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jishnusundar/COMP308-W2017-2B-Express/issues"
+  },
+  "homepage": "https://github.com/jishnusundar/COMP308-W2017-2B-Express#readme"
+}
